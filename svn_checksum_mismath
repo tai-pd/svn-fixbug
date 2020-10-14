@@ -1,0 +1,6 @@
+Open the Repo-Browser by right-clicking on the file's parent folder and selecting TortoiseSVN > Repo-Browser
+In the repo-browser, right-click on your file, Select Update item to Revision
+In the Drop-Down menu Update Depth, select Exclude, click OK. This removes the checksum entry from your local repository database.
+Delete the file in the Explorer (trashbin), update your repository
+Go back to "Update item to Revision", for Update Depth select Working Copy
+Update your repository again
